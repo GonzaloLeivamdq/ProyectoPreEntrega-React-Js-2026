@@ -1,0 +1,30 @@
+[
+  {
+    "id": "1",
+    "nombre": "Auriculares Inalámbricos",
+    "precio": 45900,
+    "stock": 12,
+    "imagen": "/img/auris.jpg"
+  },
+  {
+    "id": "2",
+    "nombre": "Mouse Gamer RGB",
+    "precio": 22500,
+    "stock": 30,
+    "imagen": "/img/mousis.jpg"
+  },
+  {
+    "id": "3",
+    "nombre": "Monitor 24 pulgadas",
+    "precio": 189000,
+    "stock": 5,
+    "imagen": "/img/moni.jpg"
+  },
+  {
+    "id": "4",
+    "nombre": "Teclado Mecánico",
+    "precio": 58700,
+    "stock": 0,
+    "imagen": "/img/teclado.webp"
+  }
+]
